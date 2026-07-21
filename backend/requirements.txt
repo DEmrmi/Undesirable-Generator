@@ -1,1 +1,4 @@
-
+flask
+pillow
+requests
+flask-cors
